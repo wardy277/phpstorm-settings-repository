@@ -1,0 +1,26 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c6c69d97-3f4b-4098-9e5e-6761a551dcb5" name="EcoVM7" url="http://ecovm7.ico3.com">
+        <fileTransfer host="ecovm7.ico3.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/ico3/conversion" accessType="SFTP" username="ico3" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="f3f6aa17-7c37-49d8-ad20-ce0333ec1178" name="rodandbens.com" url="http://rodandbens.com/">
+        <fileTransfer host="rodandbens.com" port="21" password="df98df99dfd8dfc5dfcedf9ddf93" username="rodftp">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="7776a1af-d343-413c-a4ae-eeb8b8ffa551" name="TDSNI Dev" url="http://nidev.localhost/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+    <sftpAdvancedGlobalOptions>
+      <SftpAdvancedOptions />
+    </sftpAdvancedGlobalOptions>
+  </component>
+</application>
