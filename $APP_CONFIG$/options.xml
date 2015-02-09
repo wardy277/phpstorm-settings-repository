@@ -10,5 +10,8 @@
     <property name="file.colors.enable.non.project" value="Yellow" />
     <property name="bashsupport.weddingNotification.shown" value="1" />
     <property name="Non-Project Files" value="Yellow" />
+    <property name="bashsupport.weddingNotification.enabled" value="false" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.2" />
+    <property name="FindSplitterProportion" value="0.25" />
   </component>
 </application>
