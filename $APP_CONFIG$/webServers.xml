@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="c6c69d97-3f4b-4098-9e5e-6761a551dcb5" name="EcoVM7" url="http://ecovm7.ico3.com">
+      <webServer id="c6c69d97-3f4b-4098-9e5e-6761a551dcb5" name="EcoVM7" url="">
         <fileTransfer host="ecovm7.ico3.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/ico3/conversion" accessType="SFTP" username="ico3" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
