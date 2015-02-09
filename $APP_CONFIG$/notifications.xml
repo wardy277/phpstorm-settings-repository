@@ -7,5 +7,6 @@
     <toolWindow group="Web Deployment: File Transfer" />
     <toolWindow group="Inspection Results" />
     <toolWindow group="Remote files merging" />
+    <toolWindow group="Common Version Control Messages" />
   </component>
 </application>
