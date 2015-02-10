@@ -18,6 +18,12 @@
   <action id="Console.TableResult.DeleteRows">
     <keyboard-shortcut first-keystroke="control D" />
   </action>
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="alt ENTER" />
+  </action>
+  <action id="Console.TableResult.MaximizeEditingCell">
+    <keyboard-shortcut first-keystroke="alt ENTER" />
+  </action>
   <action id="CopyElement" />
   <action id="DatabaseView.CopyAction" />
   <action id="DatabaseView.ShowDiff" />
@@ -38,6 +44,7 @@
     <keyboard-shortcut first-keystroke="control G" />
     <keyboard-shortcut first-keystroke="control L" />
   </action>
+  <action id="GotoNextError" />
   <action id="GotoSuperMethod" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
@@ -67,6 +74,10 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="control alt L" />
     <keyboard-shortcut first-keystroke="control alt F" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift F6" />
+    <keyboard-shortcut first-keystroke="F2" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift control T" />
