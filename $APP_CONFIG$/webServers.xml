@@ -15,15 +15,8 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="5ea95024-7843-4dec-97ca-e2ac2c16da99" name="succession_group" url="http://successiongroup.co.uk/">
-        <fileTransfer host="dp1.ico3.com" port="21" password="dfc2df9ddf93dff5dfc0df98df9ddf9edfd8" username="successionftp">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
       <webServer id="3215e052-aba6-435c-a519-7ee48ab7b153" name="Succession Group" url="http://successiongroup.co.uk/">
-        <fileTransfer host="dp1.ico3.com" port="21" password="dfc2df9ddf93dff5dfc0df98df9ddf9edfd8" username="successionftp">
+        <fileTransfer host="dp1.ico3.com" port="21" rootFolder="/httpdocs" password="dfc2df9ddf93dff5dfc0df98df9ddf9edfd8" username="successionftp">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
