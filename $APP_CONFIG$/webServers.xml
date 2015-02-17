@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="c6c69d97-3f4b-4098-9e5e-6761a551dcb5" name="EcoVM7" url="">
+      <webServer id="c6c69d97-3f4b-4098-9e5e-6761a551dcb5" name="EcoVM7" url="http://ecovm7.ico3.com">
         <fileTransfer host="ecovm7.ico3.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/ico3/conversion" accessType="SFTP" username="ico3" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -15,8 +15,19 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="7776a1af-d343-413c-a4ae-eeb8b8ffa551" name="TDSNI Dev" url="http://nidev.localhost/">
-        <fileTransfer accessType="LOCAL" />
+      <webServer id="3215e052-aba6-435c-a519-7ee48ab7b153" name="Succession Group" url="http://successiongroup.co.uk/">
+        <fileTransfer host="dp1.ico3.com" port="21" rootFolder="/httpdocs" password="dfc2df9ddf93dff5dfc0df98df9ddf9edfd8" username="successionftp">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="3ca51861-bf0c-4f15-80ff-e1f4643f556b" name="Succession Group Dev" url="http://dev.successiongroup.co.uk/">
+        <fileTransfer host="dp1.ico3.com" port="21" rootFolder="/dev.successiongroup.co.uk" username="successionftp">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
       </webServer>
     </option>
     <sftpAdvancedGlobalOptions>

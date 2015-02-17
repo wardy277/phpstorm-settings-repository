@@ -1,4 +1,34 @@
 <application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Blade files</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Blade files</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="CodeStyleSchemes">
     <option name="CURRENT_SCHEME_NAME" value="Default" />
   </component>
@@ -18,8 +48,9 @@
     <option name="recentPaths">
       <list>
         <option value="$USER_HOME$/sites/workbooks" />
-        <option value="$USER_HOME$/sites/TDS-Northern-Ireland" />
         <option value="$USER_HOME$/sites/SafeDepositsScotland" />
+        <option value="$USER_HOME$/sites/succession_group_dev" />
+        <option value="$USER_HOME$/sites/succession_group" />
         <option value="$USER_HOME$/sites/rodandbens" />
         <option value="$USER_HOME$/sites/hotline" />
         <option value="$USER_HOME$/sites/ico3admin" />
