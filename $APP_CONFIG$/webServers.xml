@@ -29,6 +29,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="6f5b9b50-122f-490e-bc35-1d0d3998c5d6" name="vetnetlln.ac.uk" url="http://vetnetlln.ac.uk">
+        <fileTransfer host="vetnetlln.ac.uk" port="21" rootFolder="/httpdocs" password="dfd9dfccdfe3dfefdf9cdfdedf9fdfeddf98dfdbdfc7dfdd" username="vetacftp">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
