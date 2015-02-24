@@ -36,6 +36,9 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="f200bc92-91e8-4147-9b9f-05d9898599db" name="Tds northern Ireland" url="http://nidev.localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />

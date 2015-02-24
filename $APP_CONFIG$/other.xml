@@ -54,6 +54,7 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/sites/TDS-Northern-Ireland" />
         <option value="$USER_HOME$/sites/SafeDepositsScotland" />
         <option value="$USER_HOME$/sites/workbooks" />
         <option value="$USER_HOME$/sites/hotline" />
@@ -69,7 +70,7 @@
         <option value="$USER_HOME$/sites/workbooks" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/sites/SafeDepositsScotland" />
+    <option name="lastPath" value="$USER_HOME$/sites/TDS-Northern-Ireland" />
   </component>
   <component name="Registry">
     <entry key="ide.firstStartup" value="false" />
