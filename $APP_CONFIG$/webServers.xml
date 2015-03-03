@@ -39,6 +39,13 @@
       <webServer id="f200bc92-91e8-4147-9b9f-05d9898599db" name="Tds northern Ireland" url="http://nidev.localhost">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="c3641621-516c-4e29-bd80-920814564dbb" name="stat.ico3.com" url="http://stat.ico3.com">
+        <fileTransfer host="stat.ico3.com" port="21" rootFolder="/httpdocs" password="df98df99dfd9dfdedfcbdfdedf9ddf93" username="statistics">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
