@@ -46,6 +46,9 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="1e1f3976-1602-4aff-b20f-b3d64eacb22b" name="http://khan.localhost/" url="http://khan.localhost/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
