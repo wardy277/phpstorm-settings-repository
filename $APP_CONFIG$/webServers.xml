@@ -49,6 +49,9 @@
       <webServer id="1e1f3976-1602-4aff-b20f-b3d64eacb22b" name="http://khan.localhost/" url="http://khan.localhost/">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="acf86974-6140-4073-b154-37ed76f80e9f" name="tdsdev.localhost" url="https://tdsdev.localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
