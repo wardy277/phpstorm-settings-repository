@@ -52,6 +52,13 @@
       <webServer id="acf86974-6140-4073-b154-37ed76f80e9f" name="tdsdev.localhost" url="https://tdsdev.localhost">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="45942542-8fc8-4128-ab59-afbb0b9015a3" name="SDS - Staging" url="http://staging.safedepositsscotland.com">
+        <fileTransfer host="staging.safedepositsscotland.com" port="21" password="df98df98df9cdfc5dfc5dfdadf9fdf93" username="sds">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
