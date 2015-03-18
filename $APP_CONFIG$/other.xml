@@ -6,10 +6,16 @@
           <State>
             <id />
           </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>UndefinedPHP</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>Blade files</id>
+            <id>PhpUndefinedMethodInspection</id>
           </State>
         </selected-state>
       </profile-state>
@@ -20,10 +26,16 @@
           <State>
             <id />
           </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>UndefinedPHP</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>Blade files</id>
+            <id>PhpUndefinedMethodInspection</id>
           </State>
         </selected-state>
       </profile-state>
