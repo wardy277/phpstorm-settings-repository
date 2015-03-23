@@ -21,24 +21,7 @@
       </profile-state>
     </entry>
     <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-          <State>
-            <id>PHP</id>
-          </State>
-          <State>
-            <id>UndefinedPHP</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>PhpUndefinedMethodInspection</id>
-          </State>
-        </selected-state>
-      </profile-state>
+      <profile-state />
     </entry>
   </component>
   <component name="BaseRefactoringSettings">
@@ -70,10 +53,10 @@
     <option name="recentPaths">
       <list>
         <option value="$USER_HOME$/sites/workbooks" />
+        <option value="$USER_HOME$/sites/SafeDepositsScotland" />
         <option value="$USER_HOME$/sites/succession_group" />
         <option value="$USER_HOME$/sites/hotline" />
         <option value="$USER_HOME$/sites/khan" />
-        <option value="$USER_HOME$/sites/SafeDepositsScotland" />
         <option value="$USER_HOME$/sites/thedisputeservice" />
         <option value="$USER_HOME$/sites/TDS-Northern-Ireland" />
         <option value="$USER_HOME$/sites/succession_group_dev" />
