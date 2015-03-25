@@ -53,8 +53,8 @@
     <option name="recentPaths">
       <list>
         <option value="$USER_HOME$/sites/workbooks" />
-        <option value="$USER_HOME$/sites/SafeDepositsScotland" />
         <option value="$USER_HOME$/sites/successionadvisoryservices" />
+        <option value="$USER_HOME$/sites/SafeDepositsScotland" />
         <option value="$USER_HOME$/sites/ico3admin" />
         <option value="$USER_HOME$/sites/hotline" />
         <option value="$USER_HOME$/sites/TDS-Northern-Ireland" />
@@ -69,7 +69,7 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/sites/SafeDepositsScotland" />
+        <option value="$USER_HOME$/sites/workbooks" />
       </list>
     </option>
     <option name="lastPath" value="$USER_HOME$/sites/workbooks" />
