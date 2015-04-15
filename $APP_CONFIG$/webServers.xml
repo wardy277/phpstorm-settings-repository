@@ -59,13 +59,6 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="be11dde5-2dfa-477d-a1ec-41dbb4306bb1" name="successionadvisoryservices.com" url="http://successionadvisoryservices.com">
-        <fileTransfer host="successionadvisoryservices.com" port="21" password="dfc0dfc2dfdedf98df9ddfdedfc9dfc8" username="advisoryftp">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
