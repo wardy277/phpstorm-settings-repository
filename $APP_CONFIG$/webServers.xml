@@ -59,6 +59,9 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="80ce98f0-c771-43a1-a46f-151e23c91702" name="successiongroup" url="http://successiongroup.localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
