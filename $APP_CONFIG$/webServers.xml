@@ -62,6 +62,9 @@
       <webServer id="80ce98f0-c771-43a1-a46f-151e23c91702" name="successiongroup" url="http://successiongroup.localhost">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="7be4990f-7868-4f1a-b932-2379466d62ed" name="rodandbens-admin" url="http://rodandbens-admin.localhost/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
