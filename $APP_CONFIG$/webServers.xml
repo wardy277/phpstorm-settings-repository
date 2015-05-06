@@ -65,6 +65,9 @@
       <webServer id="7be4990f-7868-4f1a-b932-2379466d62ed" name="rodandbens-admin" url="http://rodandbens-admin.localhost/">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="ab234122-71cf-439f-a9d9-58a0038c82b2" name="catherinebest.localhost" url="http://catherinebest.localhost/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
