@@ -16,7 +16,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="3215e052-aba6-435c-a519-7ee48ab7b153" name="Succession Group" url="http://successiongroup.co.uk/">
-        <fileTransfer host="dp1.ico3.com" port="21" rootFolder="/httpdocs" password="dfc2df9ddf93dff5dfc0df98df9ddf9edfd8" username="successionftp">
+        <fileTransfer host="dp1.ico3.com" port="21" password="dfc2df9ddf93dff5dfc0df98df9ddf9edfd8" username="successionftp">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -28,6 +28,45 @@
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
+      </webServer>
+      <webServer id="6f5b9b50-122f-490e-bc35-1d0d3998c5d6" name="vetnetlln.ac.uk" url="http://vetnetlln.ac.uk">
+        <fileTransfer host="vetnetlln.ac.uk" port="21" rootFolder="/httpdocs" password="dfd9dfccdfe3dfefdf9cdfdedf9fdfeddf98dfdbdfc7dfdd" username="vetacftp">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="f200bc92-91e8-4147-9b9f-05d9898599db" name="Tds northern Ireland" url="http://nidev.localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="c3641621-516c-4e29-bd80-920814564dbb" name="stat.ico3.com" url="http://stat.ico3.com">
+        <fileTransfer host="stat.ico3.com" port="21" rootFolder="/httpdocs" password="df98df99dfd9dfdedfcbdfdedf9ddf93" username="statistics">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="1e1f3976-1602-4aff-b20f-b3d64eacb22b" name="http://khan.localhost/" url="http://khan.localhost/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="acf86974-6140-4073-b154-37ed76f80e9f" name="tdsdev.localhost" url="https://tdsdev.localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="45942542-8fc8-4128-ab59-afbb0b9015a3" name="SDS - Staging" url="http://staging.safedepositsscotland.com">
+        <fileTransfer host="staging.safedepositsscotland.com" port="21" password="df98df98df9cdfc5dfc5dfdadf9fdf93" username="sds">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="80ce98f0-c771-43a1-a46f-151e23c91702" name="successiongroup" url="http://successiongroup.localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="7be4990f-7868-4f1a-b932-2379466d62ed" name="rodandbens-admin" url="http://rodandbens-admin.localhost/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="ab234122-71cf-439f-a9d9-58a0038c82b2" name="catherinebest.localhost" url="http://catherinebest.localhost/">
+        <fileTransfer accessType="LOCAL" />
       </webServer>
     </option>
     <sftpAdvancedGlobalOptions>

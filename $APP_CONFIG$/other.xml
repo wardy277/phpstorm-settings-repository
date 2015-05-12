@@ -6,28 +6,29 @@
           <State>
             <id />
           </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>UndefinedPHP</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>Blade files</id>
+            <id>PhpUndefinedMethodInspection</id>
           </State>
         </selected-state>
       </profile-state>
     </entry>
     <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>Blade files</id>
-          </State>
-        </selected-state>
-      </profile-state>
+      <profile-state />
     </entry>
+  </component>
+  <component name="BaseRefactoringSettings">
+    <option name="SAFE_DELETE_WHEN_DELETE" value="false" />
+    <option name="SAFE_DELETE_SEARCH_IN_COMMENTS" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FILE" value="false" />
+    <option name="RENAME_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
   </component>
   <component name="CodeStyleSchemes">
     <option name="CURRENT_SCHEME_NAME" value="Default" />
@@ -44,21 +45,34 @@
     <ignored-resource url="http://exslt.org/sets" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
+  <component name="PhpRefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="true" />
+    <option name="RENAME_SEARCH_NON_CODE_FOR_VARIABLE" value="true" />
+  </component>
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
         <option value="$USER_HOME$/sites/workbooks" />
-        <option value="$USER_HOME$/sites/SafeDepositsScotland" />
-        <option value="$USER_HOME$/sites/succession_group_dev" />
-        <option value="$USER_HOME$/sites/succession_group" />
+        <option value="$USER_HOME$/sites/rodandbens-admin" />
         <option value="$USER_HOME$/sites/rodandbens" />
+        <option value="$USER_HOME$/sites/khan" />
         <option value="$USER_HOME$/sites/hotline" />
         <option value="$USER_HOME$/sites/ico3admin" />
+        <option value="$USER_HOME$/sites/SafeDepositsScotland" />
+        <option value="$USER_HOME$/sites/catherinebest" />
+        <option value="$USER_HOME$/sites/successiongroup" />
+        <option value="$USER_HOME$/sites/successionadvisoryservices" />
+        <option value="$USER_HOME$/sites/TDS-Northern-Ireland" />
+        <option value="$USER_HOME$/sites/succession_group" />
+        <option value="$USER_HOME$/sites/thedisputeservice" />
+        <option value="$USER_HOME$/sites/succession_group_dev" />
+        <option value="$USER_HOME$/sites/statistics" />
+        <option value="$USER_HOME$/sites/vetnet" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/sites/workbooks" />
+        <option value="$USER_HOME$/sites/catherinebest" />
       </list>
     </option>
     <option name="lastPath" value="$USER_HOME$/sites/workbooks" />
@@ -103,4 +117,5 @@
       </option>
     </recent_templates>
   </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" HIGHLIGHT_MODE="BY_WORD" />
 </application>
