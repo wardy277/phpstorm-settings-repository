@@ -27,6 +27,7 @@
   <component name="BaseRefactoringSettings">
     <option name="SAFE_DELETE_WHEN_DELETE" value="false" />
     <option name="SAFE_DELETE_SEARCH_IN_COMMENTS" value="false" />
+    <option name="SAFE_DELETE_SEARCH_IN_NON_JAVA" value="false" />
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FILE" value="false" />
     <option name="RENAME_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
   </component>
@@ -34,15 +35,15 @@
     <option name="CURRENT_SCHEME_NAME" value="Default" />
   </component>
   <component name="ExternalResourceManagerImpl">
-    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
-    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
     <ignored-resource url="http://exslt.org/math" />
     <ignored-resource url="http://exslt.org/dynamic" />
     <ignored-resource url="http://exslt.org/common" />
-    <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
   <component name="PhpRefactoringSettings">
@@ -55,6 +56,8 @@
         <option value="$USER_HOME$/sites/successiongroup" />
         <option value="$USER_HOME$/sites/SafeDepositsScotland" />
         <option value="$USER_HOME$/sites/workbooks" />
+        <option value="$USER_HOME$/sites/episodecalendar" />
+        <option value="$USER_HOME$/sites/SafeDepositsScotland" />
         <option value="$USER_HOME$/sites/rodandbens-admin" />
         <option value="$USER_HOME$/sites/rodandbens" />
         <option value="$USER_HOME$/sites/khan" />
@@ -72,7 +75,7 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/sites/catherinebest" />
+        <option value="$USER_HOME$/sites/SafeDepositsScotland" />
       </list>
     </option>
     <option name="lastPath" value="$USER_HOME$/sites/successiongroup" />
@@ -117,5 +120,4 @@
       </option>
     </recent_templates>
   </component>
-  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" HIGHLIGHT_MODE="BY_WORD" />
 </application>
