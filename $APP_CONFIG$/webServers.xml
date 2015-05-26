@@ -74,6 +74,9 @@
       <webServer id="5fdd4c1b-8c7a-4757-a4c7-d89f11aa26b5" name="houseofharris" url="http://houseofharris.localhost">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="0a664dd2-0f08-48e3-9d8b-08dd8d93493b" name="birdkids" url="http://birdkids.localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
