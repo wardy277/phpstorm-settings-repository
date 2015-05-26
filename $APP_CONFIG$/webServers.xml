@@ -71,6 +71,9 @@
       <webServer id="be420e80-ddaa-4e99-a039-ec9d8ff2f781" name="clients.localhost" url="https://clients.localhost/">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="5fdd4c1b-8c7a-4757-a4c7-d89f11aa26b5" name="houseofharris" url="http://houseofharris.localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
