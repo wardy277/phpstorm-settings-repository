@@ -68,6 +68,15 @@
       <webServer id="ab234122-71cf-439f-a9d9-58a0038c82b2" name="catherinebest.localhost" url="http://catherinebest.localhost/">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="be420e80-ddaa-4e99-a039-ec9d8ff2f781" name="clients.localhost" url="https://clients.localhost/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="5fdd4c1b-8c7a-4757-a4c7-d89f11aa26b5" name="houseofharris" url="http://houseofharris.localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="0a664dd2-0f08-48e3-9d8b-08dd8d93493b" name="birdkids" url="http://birdkids.localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
