@@ -7,6 +7,6 @@
       <mapping pattern=".htacccess" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
     </extensionMap>
-    <setting name="fileTypeChangedCounter" value="4" />
+    <setting name="fileTypeChangedCounter" value="6" />
   </component>
 </application>
