@@ -5,8 +5,9 @@
       <removed_mapping ext="html" type="HTML" />
       <mapping ext="html" type="PHP" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".htacccess" type="PLAIN_TEXT" />
     </extensionMap>
-    <setting name="fileTypeChangedCounter" value="6" />
+    <setting name="fileTypeChangedCounter" value="7" />
   </component>
 </application>
