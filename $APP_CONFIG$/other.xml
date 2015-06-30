@@ -79,6 +79,11 @@
         <option value="$USER_HOME$/sites/rodandbens-admin" />
       </list>
     </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/sites/khan" />
+      </list>
+    </option>
     <option name="lastPath" value="$USER_HOME$/sites/khan" />
   </component>
   <component name="Registry">
