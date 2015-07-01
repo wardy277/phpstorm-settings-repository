@@ -77,6 +77,13 @@
       <webServer id="0a664dd2-0f08-48e3-9d8b-08dd8d93493b" name="birdkids" url="http://birdkids.localhost">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="043d5f6c-bcf1-4781-be22-7dc1b28076fb" name="daisy baby" url="http://daisybabyshop.co.uk/import/">
+        <fileTransfer host="daisybabyshop.co.uk" port="21" rootFolder="/httpdocs/import" password="df98df99dfcedfcbdfc3dfd9df9ddf93" username="daisybabys">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
