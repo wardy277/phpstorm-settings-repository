@@ -640,12 +640,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HAML_FILTER">
-      <value />
-    </option>
-    <option name="HAML_FILTER_CONTENT">
-      <value />
-    </option>
     <option name="HAML_ID">
       <value>
         <option name="FOREGROUND" value="e8bf6a" />
@@ -656,9 +650,6 @@
         <option name="BACKGROUND" value="23201c" />
       </value>
     </option>
-    <option name="HAML_RUBY_START">
-      <value />
-    </option>
     <option name="HAML_TAG">
       <value>
         <option name="FOREGROUND" value="edebe6" />
@@ -668,9 +659,6 @@
       <value>
         <option name="EFFECT_TYPE" value="2" />
       </value>
-    </option>
-    <option name="HAML_XHTML">
-      <value />
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
