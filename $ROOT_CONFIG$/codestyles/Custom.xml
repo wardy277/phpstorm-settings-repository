@@ -13,7 +13,7 @@
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </value>
   </option>
-  <option name="RIGHT_MARGIN" value="190" />
+  <option name="RIGHT_MARGIN" value="200" />
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   <option name="HTML_INLINE_ELEMENTS" value="a,abbr,acronym,b,basefont,bdo,big,cite,cite,code,dfn,em,font,i,img,input,kbd,label,q,s,samp,select,span,strike,strong,sub,sup,textarea,tt,u,var,br" />
