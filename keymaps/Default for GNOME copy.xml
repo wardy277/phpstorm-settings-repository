@@ -1,52 +1,52 @@
 <keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
   <action id="$Redo">
-    <keyboard-shortcut first-keystroke="shift control Z" />
-    <keyboard-shortcut first-keystroke="shift alt BACK_SPACE" />
-    <keyboard-shortcut first-keystroke="control Y" />
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="CloseActiveTab">
-    <keyboard-shortcut first-keystroke="shift control F4" />
-    <keyboard-shortcut first-keystroke="F12" />
+    <keyboard-shortcut first-keystroke="shift ctrl f4" />
+    <keyboard-shortcut first-keystroke="f12" />
   </action>
   <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="control F4" />
-    <keyboard-shortcut first-keystroke="control W" />
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CompareDirs" />
   <action id="CompareJars" />
   <action id="CompareTwoFiles" />
   <action id="Console.Jdbc.Close">
-    <keyboard-shortcut first-keystroke="shift control F4" />
+    <keyboard-shortcut first-keystroke="shift ctrl f4" />
   </action>
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.DeleteRows">
-    <keyboard-shortcut first-keystroke="control D" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="Console.TableResult.EditValue">
-    <keyboard-shortcut first-keystroke="alt ENTER" />
+    <keyboard-shortcut first-keystroke="alt enter" />
   </action>
   <action id="Console.TableResult.MaximizeEditingCell">
-    <keyboard-shortcut first-keystroke="alt ENTER" />
+    <keyboard-shortcut first-keystroke="alt enter" />
   </action>
   <action id="CopyElement" />
   <action id="DatabaseView.CopyAction" />
   <action id="DatabaseView.ShowDiff" />
   <action id="Diff.UpdatedFiles" />
   <action id="Editor Redo">
-    <keyboard-shortcut first-keystroke="control Y" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="control D" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="EditorDuplicate" />
   <action id="EditorSelectWord" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FindNext">
-    <keyboard-shortcut first-keystroke="F3" />
+    <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="GotoLine">
-    <keyboard-shortcut first-keystroke="control G" />
-    <keyboard-shortcut first-keystroke="control L" />
+    <keyboard-shortcut first-keystroke="ctrl g" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="GotoNextError" />
   <action id="GotoSuperMethod" />
@@ -57,68 +57,68 @@
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="MoveLineDown">
-    <keyboard-shortcut first-keystroke="alt DOWN" />
+    <keyboard-shortcut first-keystroke="alt down" />
   </action>
   <action id="MoveLineUp">
-    <keyboard-shortcut first-keystroke="alt UP" />
+    <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="NextTab">
-    <keyboard-shortcut first-keystroke="alt RIGHT" />
-    <keyboard-shortcut first-keystroke="control TAB" />
+    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
   <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="alt LEFT" />
-    <keyboard-shortcut first-keystroke="shift control TAB" />
+    <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
   <action id="PublishGroup.Download">
-    <keyboard-shortcut first-keystroke="shift control D" />
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="PublishGroup.Upload">
-    <keyboard-shortcut first-keystroke="control U" />
+    <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
   <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="control alt L" />
-    <keyboard-shortcut first-keystroke="control alt F" />
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
   <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="shift F6" />
-    <keyboard-shortcut first-keystroke="F2" />
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="ReopenClosedTab">
-    <keyboard-shortcut first-keystroke="shift control T" />
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id="SavaAs" />
   <action id="SaveAll" />
   <action id="SaveDocument">
-    <keyboard-shortcut first-keystroke="control S" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="SendEOF" />
   <action id="ShowContent" />
   <action id="ShowSettings">
-    <keyboard-shortcut first-keystroke="control alt S" />
-    <keyboard-shortcut first-keystroke="shift control S" />
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
   <action id="StructuralSearchPlugin.StructuralSearchAction" />
   <action id="SwitchApply">
-    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+    <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
   <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+    <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
   <action id="SwitchLeft">
-    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+    <keyboard-shortcut first-keystroke="shift alt left" />
   </action>
   <action id="SwitchRight">
-    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+    <keyboard-shortcut first-keystroke="shift alt right" />
   </action>
   <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="shift alt UP" />
+    <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="Switcher" />
   <action id="UML.ApplyCurrentLayout" />
   <action id="Uml.ShowDiff" />
   <action id="Vcs.RefreshStatuses">
-    <keyboard-shortcut first-keystroke="F5" />
+    <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
