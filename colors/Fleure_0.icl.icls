@@ -1197,7 +1197,6 @@
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value>
         <option name="FOREGROUND" value="1f242e" />
-        <option name="BACKGROUND" value="f5f3ec" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -1489,7 +1488,6 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="1f242e" />
-        <option name="BACKGROUND" value="f5f3ec" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
