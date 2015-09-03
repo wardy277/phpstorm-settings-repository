@@ -1,15 +1,13 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/usr/bin/php" id="f842b955-1f84-421b-8b5c-4e04de578e03" name="PHP 5.5" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/usr/bin/php" id="f842b955-1f84-421b-8b5c-4e04de578e03" name="PHP 5.5" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 5.5">
-        <phpinfo binary_type="PHP" php_cli="" path_separator=":" remote_host="127.0.0.1" version="5.5.9-1ubuntu4.5">
-          <additional_php_ini />
-          <configuration_file />
+        <phpinfo path_separator=":" version="5.5.9-1ubuntu4.5">
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
             <configuration_option name="allow_url_fopen" value="1" />
@@ -229,7 +227,6 @@
             <configuration_option name="zlib.output_compression_level" value="-1" />
             <configuration_option name="zlib.output_handler" value="" />
           </configuration_options>
-          <debuggers />
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
